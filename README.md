@@ -8,7 +8,7 @@ Then add your details. Finally, run `./run.sh` or `npm run test`
 
 git clone git@github.com:tawawa/forgot-email-test.git
 
-cd forgot-email-test.git
+cd forgot-email-test
 
 npm i
 
